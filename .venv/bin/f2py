@@ -1,4 +1,4 @@
-#!/Users/ericwang/GazzolaLabMLProject/GazzolaLabMLProject/.venv/bin/python
+#!/Users/ericwang/CS_Stuff/GazzolaLabMLProject/GazzolaLabMLProject/.venv/bin/python3.13
 # -*- coding: utf-8 -*-
 import re
 import sys
